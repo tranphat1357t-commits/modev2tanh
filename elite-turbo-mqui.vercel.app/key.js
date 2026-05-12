@@ -2,7 +2,7 @@ window.addEventListener("load", () => {
   (function () {
   "use strict";
 
-  const API_URL = "https://api-server-key.tranphat1357t.workers.dev";
+  const API_URL = "https://serverkeybrian.quannguyendinh508.workers.dev";
 
   // ===== DEVICE ID =====
   function getDeviceId() {
